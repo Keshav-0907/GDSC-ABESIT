@@ -87,7 +87,7 @@ const Navbar = () => {
                 <Link href="/Contributors">Contributors</Link>
               </li>
               <li className="button hover:scale-105 transition border text-green-500 border-green-500 rounded-full py-1 px-2 font-normal">
-                <Link href="/">Previous Sponsors</Link>
+                <Link href="https://gdsc.community.dev/abes-institute-of-technology-ghaziabad/" target="_blank">Know More</Link>
               </li>
             </ul>
 
